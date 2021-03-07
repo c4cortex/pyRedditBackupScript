@@ -1,0 +1,5 @@
+_clientID = 'add your client id in here'
+_clientSecret = 'add you client secret here'
+_userAgent = 'add your user agent here'
+_username = 'add your reddit username here'
+_password = 'add your reddit password here'
